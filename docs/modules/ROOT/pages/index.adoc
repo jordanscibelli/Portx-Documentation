@@ -1,0 +1,12 @@
+= PortX(TM): Managing, Connecting and Integrating Partners and Applications
+
+PortX streamlines data flow between you, your partners, and your applications with products designed for use with 
+
+PortX facilitates fast, secure, and reliable transaction processing without the developer overhead typically required to achieve it. 
+
+== PortX Components
+
+
+link:Integration Hub
+
+AS2 Connector
