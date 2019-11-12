@@ -7,6 +7,6 @@ PortX facilitates fast, secure, and reliable transaction processing without the 
 == PortX Components
 
 
-link:Integration Hub
+Integration Hub
 
 AS2 Connector
