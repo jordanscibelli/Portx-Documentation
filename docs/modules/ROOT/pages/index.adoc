@@ -7,6 +7,6 @@ PortX facilitates fast, secure, and reliable transaction processing without the 
 == PortX Components
 
 
-*** xref:integration-hub::index.adoc[Integration Hub]
+xref:integration-hub::index.adoc[Integration Hub]
 
-*** xref:as2-connector::index.adoc[AS2 Connector]
+xref:as2-connector::index.adoc[AS2 Connector]
